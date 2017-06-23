@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>HTML Form</title>
+</head>
+<body>
+    <header>
+          <div class="header">
+              The basic form of a HTML project
+          </div>
+    </header>
+    <section>
+          <article class="content">
+               <p class="paragraph">
+                  This is a paragraph :-)
+               </p>
+          </article>
+    </section>
+    <aside>
+          <h3>Widget</h3>
+          <p class="widget">
+                  CONTENT
+          </p>
+          
+          <h3>Tags</h3>
+          <p class="tags">
+                  <ul id="tag-list">
+                       <li><a href="#">Tag #1</a></li>
+                       <li><a href="#">Tag #2</a></li>
+                       <li><a href="#">Tag #3</a></li>
+                       <li><a href="#">Tag #4</a></li>
+                  </ul>
+          </p>
+    </aside>
+    <footer>
+          <div class="copyright">
+                  &copy; Copyright 2017 Basic form
+          </div>
+    </footer>
+</body>
+</html>
